@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Class-Path: processing.jar:minim.jar:jsminim.jar:mp3spi1.9.4.jar:tritons_share.jar:tritons_aos.jar:jl1.0.jar
+Main-Class: edu.nyu.cs.cs101.consumers.Driver
